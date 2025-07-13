@@ -63,7 +63,7 @@ A comprehensive financial analysis and tracking system that helps analyze spendi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vedavi15
+https://github.com/Vedavi15/finance_tracker.git
 cd finance_tracker
 ```
 
