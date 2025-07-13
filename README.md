@@ -168,8 +168,7 @@ The system generates various reports:
 
 ## 📫 Contact
 
-Project Maintainer: KANISHK S
-GitHub: [@kanizmadix](https://github.com/kanizmadix)
+Project Maintainer: VEDAVI V 
 
 ## 📜 License
 
