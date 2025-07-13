@@ -168,7 +168,7 @@ The system generates various reports:
 
 ## 📫 Contact
 
-Project Maintainer: VEDAVI V @Vedavi15
+Project Maintainer: VEDAVI V 
 
 ## 📜 License
 
